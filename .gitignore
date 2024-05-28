@@ -1,0 +1,9 @@
+.env
+redis.conf
+fastapi/.vscode
+fastapi/myenv
+fastapi/data_map.txt
+fastapi/__pycache__
+.env
+node_modules
+dist
